@@ -26,3 +26,11 @@
 - 🏍 Outside of coding, I enjoy  gaming, books, animes, fueling creativity and teamwork skills.  
 
 ## Let’s connect and build something awesome together! ✨
+
+#       ####### #######  #####     ######  #######  #####  #    # 
+#       #          #    #     #    #     # #     # #     # #   #  
+#       #          #    #          #     # #     # #       #  #   
+#       #####      #     #####     ######  #     # #       ###    
+#       #          #          #    #   #   #     # #       #  #   
+#       #          #    #     #    #    #  #     # #     # #   #  
+####### #######    #     #####     #     # #######  #####  #    # 
