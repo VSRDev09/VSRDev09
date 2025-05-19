@@ -27,10 +27,5 @@
 
 ## Let’s connect and build something awesome together! ✨
 
-#       ####### #######  #####     ######  #######  #####  #    # 
-#       #          #    #     #    #     # #     # #     # #   #  
-#       #          #    #          #     # #     # #       #  #   
-#       #####      #     #####     ######  #     # #       ###    
-#       #          #          #    #   #   #     # #       #  #   
-#       #          #    #     #    #    #  #     # #     # #   #  
-####### #######    #     #####     #     # #######  #####  #    # 
+![Let's Rock](https://readme-typing-svg.herokuapp.com?font=Rock+Salt&size=40&duration=4000&pause=1000&color=ff0000&background=00000000&center=true&vCenter=true&width=400&height=70&lines=Let's+Rock!+🤘)
+
