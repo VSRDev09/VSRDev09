@@ -21,9 +21,9 @@
 
 - 🎓 3rd semester student in Systems Analysis and Development at IFBA - Campus Salvador (Bahia, Brazil).  
 - 👨🏽‍💻 Passionate developer with solid experience in C, C#, C++, ASP.NET, and SQL Server, always eager to learn and improve. 
-- 🔧 Skilled in industrial mechanics with a technical background that brings a unique problem-solving mindset to software development.  
+- 🔧 Skilled in industrial electromechanical with a technical background that brings a unique problem-solving mindset to software development.  
 - 💡 Freelancing in spare time to deepen practical skills and build real-world projects.  
-- 🏍 Outside of coding, I enjoy  gaming, books, animes, fueling creativity and teamwork skills.  
+- 🎮 Outside of coding, I enjoy  gaming, books, animes, fueling creativity and teamwork skills.  
 
 ## Let’s connect and build something awesome together! ✨
 
