@@ -2,10 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinicius-santos-vsrdev09)
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VSRDev09&show_icons=true&theme=transparent&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSRDev09&layout=donut&size_weight=0.5&count_weight=0.5&theme=transparent" alt="Top Langs"/>
-</div>
 
 ## Stack 🖥
 
