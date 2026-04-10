@@ -22,11 +22,16 @@
 
 ## About Me 🚀
 
-- 🎓 3rd semester student in Systems Analysis and Development at IFBA - Campus Salvador (Bahia, Brazil).  
-- 👨🏽‍💻 Passionate developer with solid experience in C, C#, C++, ASP.NET, and SQL Server, always eager to learn and improve. 
-- 🔧 Skilled in industrial electromechanical with a technical background that brings a unique problem-solving mindset to software development.  
-- 💡 Freelancing in spare time to deepen practical skills and build real-world projects.  
-- 🎮 Outside of coding, I enjoy  gaming, books, animes, fueling creativity and teamwork skills.  
+- 🎓 4th semester student in Systems Analysis and Development at IFBA - Campus Salvador (Bahia, Brazil).
+- 👨🏽‍💻 Developer focused on backend development, with solid experience in C, C#, C++, Java, ASP.NET and RESTful APIs.
+- 🗄️ Strong knowledge in databases, working with SQL Server and PostgreSQL, including queries, data manipulation, and basic optimization.
+- ⚙️ Experience with real-world systems, acting in technical support for ERP environments in production, handling debugging, troubleshooting, and system stability.
+- 🌐 Familiar with web development concepts, including HTTP, APIs integration, and basic front-end (HTML, CSS, JavaScript).
+- 🐳 Experience with Docker and containerized applications from academic and project-based environments.
+- 🔧 Background in industrial electromechanics, bringing a strong analytical and problem-solving mindset to software development.
+- 💡 Freelancing and personal projects focused on improving coding practices, clean code, and software design patterns.
+- 🧠 Constant learner, studying software architecture, object-oriented design, and best development practices.
+- 🎮 Outside of coding, I enjoy gaming, books, and anime, which help develop creativity, focus, and strategic thinking. 
 
 ## Let’s connect and build something awesome together! ✨
 
