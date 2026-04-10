@@ -2,6 +2,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinicius-santos-vsrdev09)
 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VSRDev09&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSRDev09&layout=compact&langs_count=5&theme=tokyonight"/>
+</div>
 
 ## Stack 🖥
 
